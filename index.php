@@ -1,3 +1,3 @@
 <?php
-echo "";
+echo "git push";
 ?>
